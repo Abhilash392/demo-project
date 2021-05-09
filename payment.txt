@@ -1,5 +1,11 @@
 payment is not functioning
 
+<<<<<<< HEAD
 assigning the team to solve it.
 
 get back once solved
+=======
+solving it
+
+need code
+>>>>>>> 694a5cf022cc4d70050080cf761b99120234a74f
