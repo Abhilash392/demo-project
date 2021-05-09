@@ -3,3 +3,7 @@ adding 2 items into the cart instead of 1.
 solve it.
 
 go through with the code.
+
+hello
+
+everyone
